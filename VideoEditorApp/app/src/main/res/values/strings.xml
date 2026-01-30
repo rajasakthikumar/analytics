@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Editor</string>
+    <string name="new_project">New Project</string>
+    <string name="projects">Projects</string>
+    <string name="templates">Templates</string>
+    <string name="settings">Settings</string>
+
+    <!-- Permissions -->
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_media_description">To edit videos, we need access to your media files</string>
+    <string name="grant_permission">Grant Permission</string>
+
+    <!-- Editor -->
+    <string name="trim">Trim</string>
+    <string name="split">Split</string>
+    <string name="delete">Delete</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="filters">Filters</string>
+    <string name="effects">Effects</string>
+    <string name="text">Text</string>
+    <string name="stickers">Stickers</string>
+    <string name="audio">Audio</string>
+    <string name="speed">Speed</string>
+    <string name="transitions">Transitions</string>
+    <string name="adjustments">Adjustments</string>
+
+    <!-- Timeline -->
+    <string name="video_track">Video</string>
+    <string name="audio_track">Audio</string>
+    <string name="text_track">Text</string>
+
+    <!-- Export -->
+    <string name="export">Export</string>
+    <string name="exporting">Exporting…</string>
+    <string name="export_complete">Export Complete</string>
+    <string name="export_failed">Export Failed</string>
+    <string name="resolution">Resolution</string>
+    <string name="frame_rate">Frame Rate</string>
+    <string name="quality">Quality</string>
+
+    <!-- Filters -->
+    <string name="none">None</string>
+    <string name="grayscale">Grayscale</string>
+    <string name="sepia">Sepia</string>
+    <string name="vintage">Vintage</string>
+    <string name="warm">Warm</string>
+    <string name="cool">Cool</string>
+    <string name="vivid">Vivid</string>
+    <string name="dramatic">Dramatic</string>
+    <string name="cinematic">Cinematic</string>
+
+    <!-- Transitions -->
+    <string name="fade">Fade</string>
+    <string name="dissolve">Dissolve</string>
+    <string name="wipe">Wipe</string>
+    <string name="slide">Slide</string>
+    <string name="zoom">Zoom</string>
+    <string name="spin">Spin</string>
+
+    <!-- Adjustments -->
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="saturation">Saturation</string>
+    <string name="exposure">Exposure</string>
+    <string name="temperature">Temperature</string>
+    <string name="sharpness">Sharpness</string>
+    <string name="vignette">Vignette</string>
+
+    <!-- Actions -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="reset">Reset</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="continue_action">Continue</string>
+    <string name="select_all">Select All</string>
+    <string name="deselect_all">Deselect All</string>
+
+    <!-- Gallery -->
+    <string name="select_media">Select Media</string>
+    <string name="videos">Videos</string>
+    <string name="images">Images</string>
+    <string name="no_videos_found">No videos found</string>
+    <string name="no_images_found">No images found</string>
+
+    <!-- Messages -->
+    <string name="project_saved">Project saved</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="no_projects">No projects yet</string>
+    <string name="create_project_hint">Create a new project to get started</string>
+</resources>

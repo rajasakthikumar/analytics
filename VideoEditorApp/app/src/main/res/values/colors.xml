@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#6366F1</color>
+    <color name="primary_dark">#4F46E5</color>
+    <color name="primary_light">#818CF8</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary">#8B5CF6</color>
+    <color name="secondary_dark">#7C3AED</color>
+    <color name="secondary_light">#A78BFA</color>
+    <color name="on_secondary">#FFFFFF</color>
+
+    <!-- Tertiary Colors -->
+    <color name="tertiary">#F59E0B</color>
+    <color name="tertiary_dark">#D97706</color>
+    <color name="tertiary_light">#FBBF24</color>
+    <color name="on_tertiary">#000000</color>
+
+    <!-- Background Colors -->
+    <color name="background_dark">#121212</color>
+    <color name="background_light">#FAFAFA</color>
+
+    <!-- Surface Colors -->
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_variant_dark">#2D2D2D</color>
+    <color name="surface_variant_light">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_primary_light">#1A1A1A</color>
+    <color name="text_secondary_dark">#B3B3B3</color>
+    <color name="text_secondary_light">#666666</color>
+
+    <!-- Editor Colors -->
+    <color name="editor_background">#1A1A1A</color>
+    <color name="editor_surface">#252525</color>
+    <color name="timeline_background">#333333</color>
+    <color name="video_clip">#6366F1</color>
+    <color name="audio_clip">#4CAF50</color>
+    <color name="text_clip">#F59E0B</color>
+    <color name="playhead">#FF5252</color>
+
+    <!-- Status Colors -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="info">#3B82F6</color>
+
+    <!-- Overlay Colors -->
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#40000000</color>
+    <color name="scrim">#99000000</color>
+
+    <!-- Divider -->
+    <color name="divider_dark">#333333</color>
+    <color name="divider_light">#E5E5E5</color>
+
+    <!-- Selection -->
+    <color name="selection">#336366F1</color>
+    <color name="selection_border">#6366F1</color>
+</resources>
